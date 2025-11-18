@@ -1,0 +1,36 @@
+/* GENEL SİSTEM TASARIMI */
+body {
+    background: #f5f6f8;
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    border-radius: 12px;
+    box-shadow: 0 0 10px #00000015;
+}
+
+.btn-primary {
+    background: #0051ff;
+    border-color: #0046db;
+}
+
+.sidebar {
+    width: 230px;
+    background: #0051ff;
+    color: white;
+}
+
+.sidebar a {
+    color: white;
+    font-size: 15px;
+    padding: 8px 0;
+}
+
+.sidebar a:hover {
+    opacity: 0.8;
+}
+
+.logo {
+    width: 150px;
+    margin-bottom: 20px;
+}
